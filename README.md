@@ -1,5 +1,7 @@
 # Sparsity und Total Variation: passt der Prior zur Welt? – Streamlit-Demo
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-sparsity-tv-demo.streamlit.app/)**
+
 Sechstes Stück der Linie **Inverse Probleme und Regularisierung** in der „Konzepte“-Reihe im Portfolio von [Sebastian Hanisch](https://sebastianhanisch.net) (Operations Research und Machine Learning). Es baut auf [schlecht-gestellt-demo](https://github.com/sebastian-hanisch/schlecht-gestellt-demo), [tikhonov-demo](https://github.com/sebastian-hanisch/tikhonov-demo), [tsvd-demo](https://github.com/sebastian-hanisch/tsvd-demo), [parameterwahl-demo](https://github.com/sebastian-hanisch/parameterwahl-demo) und [iterativ-demo](https://github.com/sebastian-hanisch/iterativ-demo) auf und nutzt dieselbe Welt: ein Phantom aus zwei Hügeln und einem Kasten, gemessen mit einer Gauß-Unschärfe und weißem Rauschen. Die Wahrheit ist bekannt, weil das Phantom selbst die Wahrheit ist; sie dient hier nur als Maßstab, nie als Eingabe eines Verfahrens.
 
 ## Kernfrage
